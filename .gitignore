@@ -1,0 +1,9 @@
+build/
+*.keystore
+*.jks
+*.apk
+!release/*.apk
+.idea/
+*.iml
+.DS_Store
+Thumbs.db

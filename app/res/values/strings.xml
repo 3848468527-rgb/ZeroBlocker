@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_speaker_desc">打电话接通后自动打开免提。只读取通话界面并点一下免提按钮，不录音、不联网、不收集信息。</string>
+</resources>
